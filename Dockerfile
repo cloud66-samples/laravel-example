@@ -1,3 +1,4 @@
+# FILE: Dockerfile
 FROM bitnami/laravel:8
 # Your ENV vars are automatically injected here as ARGS
 # ie. ARG NODE_ENV="production"
